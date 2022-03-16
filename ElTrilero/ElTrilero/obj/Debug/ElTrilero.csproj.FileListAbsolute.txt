@@ -1,0 +1,12 @@
+C:\Users\Daniela\Documents\SharpDevelop Projects\ElTrilero\ElTrilero\bin\Debug\ElTrilero.exe.config
+C:\Users\Daniela\Documents\SharpDevelop Projects\ElTrilero\ElTrilero\bin\Debug\ElTrilero.exe
+C:\Users\Daniela\Documents\SharpDevelop Projects\ElTrilero\ElTrilero\bin\Debug\ElTrilero.pdb
+C:\Users\Daniela\Documents\SharpDevelop Projects\ElTrilero\ElTrilero\obj\Debug\ElTrilero.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\SharpDevelop Projects\ElTrilero\ElTrilero\obj\Debug\ElTrilero.exe
+C:\Users\Daniela\Documents\SharpDevelop Projects\ElTrilero\ElTrilero\obj\Debug\ElTrilero.pdb
+C:\Users\TVJ1A\Desktop\ElTrilero\ElTrilero\obj\Debug\ElTrilero.csprojResolveAssemblyReference.cache
+C:\Users\TVJ1A\Desktop\ElTrilero\ElTrilero\obj\Debug\ElTrilero.exe
+C:\Users\TVJ1A\Desktop\ElTrilero\ElTrilero\bin\Debug\ElTrilero.exe.config
+C:\Users\TVJ1A\Desktop\ElTrilero\ElTrilero\bin\Debug\ElTrilero.exe
+C:\Users\TVJ1A\Desktop\ElTrilero\ElTrilero\bin\Debug\ElTrilero.pdb
+C:\Users\TVJ1A\Desktop\ElTrilero\ElTrilero\obj\Debug\ElTrilero.pdb
